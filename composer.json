@@ -1,0 +1,19 @@
+{
+	"name": "cmsgears/widget-popup",
+	"description": "The Popup Widget for CMSGears. It provide options to show popups.",
+	"homepage": "http://www.cmsgears.org",
+	"type": "package",
+	"keywords": [ "yii2", "cmsgears", "widget", "popup" ],
+	"license": "GPLv3",
+	"support": {
+		"resources": "http://www.cmsgears.org"
+	},
+	"autoload": {
+		"psr-4": {
+			"cmsgears\\widgets\\popup\\": ""
+		}
+	},
+    "require": {
+        "cmsgears/module-core": "*"
+    }
+}
