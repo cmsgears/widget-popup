@@ -100,10 +100,6 @@ class Popup extends \cmsgears\core\common\base\Widget {
 
 					break;
 				}
-				default: {
-
-					$this->title = 'Message';
-				}
 			}
 		}
 
