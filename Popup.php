@@ -1,10 +1,6 @@
 <?php
 namespace cmsgears\widgets\popup;
 
-// Yii Imports
-use \Yii;
-use yii\helpers\Html;
-
 class Popup extends \cmsgears\core\common\base\Widget {
 
 	// Variables ---------------------------------------------------
